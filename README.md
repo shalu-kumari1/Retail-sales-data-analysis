@@ -29,49 +29,49 @@ The dataset contains retail transaction records including information about cust
 
 **Key Features in the Dataset:**
 
-Column	                Description
-Customer            ID	Unique identifier for each customer
-Category	          Product category purchased
-Price Per Unit	    Price of a single unit
-Quantity	          Number of units purchased
-Total Spent	        Total purchase amount
-Transaction Date  	Date of purchase
-Payment Method	    Method used for payment
-Location	          Purchase location (Online / In-store)
+* Column	                Description
+* Customer  ->          ID	Unique identifier for each customer
+* Category	 ->         Product category purchased
+* Price Per Unit	->    Price of a single unit
+* Quantity	 ->         Number of units purchased
+* Total Spent	 ->       Total purchase amount
+* Transaction Date -> 	Date of purchase
+* Payment Method	 ->   Method used for payment
+* Location	     ->     Purchase location (Online / In-store)
 
 ## 🔎 Data Cleaning Steps
 
 **The following preprocessing steps were performed:**
 
--> Removed missing or inconsistent values
--> Converted transaction date to datetime format
--> Checked for duplicate records
--> Created additional features such as:
+* Removed missing or inconsistent values
+* Converted transaction date to datetime format
+* Checked for duplicate records
+* Created additional features such as:
 * Month
 * Year
--> Verified data types for accurate analysis
+* Verified data types for accurate analysis
 
 ## 📈 Exploratory Data Analysis (EDA)
 
 Several visualizations were created to explore patterns in the dataset.
 
 1️⃣ Sales by Product Category
-Bar charts were used to identify which product categories generated the highest revenue.
+* Bar charts were used to identify which product categories generated the highest revenue.
 
 2️⃣ Monthly Sales Trend
-Line charts show how total spending changes across different months.
+* Line charts show how total spending changes across different months.
 
 3️⃣ Payment Method Distribution
-Pie charts illustrate the popularity of different payment methods.
+* Pie charts illustrate the popularity of different payment methods.
 
 4️⃣ Online vs In-Store Purchases
-Comparison of customer preferences for shopping channels.
+* Comparison of customer preferences for shopping channels.
 
 5️⃣ Spending Distribution
-Boxplots and histograms help analyze the distribution of spending amounts.
+* Boxplots and histograms help analyze the distribution of spending amounts.
 
 6️⃣ Category vs Month Heatmap
-A heatmap visualizes sales intensity across product categories and months.
+* A heatmap visualizes sales intensity across product categories and months.
 
 ## 📊 Key Insights
 
@@ -84,3 +84,6 @@ A heatmap visualizes sales intensity across product categories and months.
 * Some categories show higher purchasing activity during specific months.
 
 ## 📷 Sample Visualizations
+<img width="844" height="671" alt="Screenshot 2026-03-16 225954" src="https://github.com/user-attachments/assets/3796ab47-adbb-4a3c-bb0c-15ce0b0194fa" />
+<img width="755" hei<img width="1300" height="734" alt="Screenshot 2026-03-16 230056" src="https://github.com/user-attachments/assets/5389bf02-0ac8-4309-af85-7495ff631b85" />
+ght="655" alt="Screenshot 2026-03-16 230009" src="https://github.com/user-attachments/assets/3d3a505e-68bf-48b6-af2b-271f31d8d8d9" />
