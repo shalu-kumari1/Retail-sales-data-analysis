@@ -86,4 +86,13 @@ Several visualizations were created to explore patterns in the dataset.
 ## 📷 Sample Visualizations
 <img width="844" height="671" alt="Screenshot 2026-03-16 225954" src="https://github.com/user-attachments/assets/3796ab47-adbb-4a3c-bb0c-15ce0b0194fa" />
 <img width="755" hei<img width="1300" height="734" alt="Screenshot 2026-03-16 230056" src="https://github.com/user-attachments/assets/5389bf02-0ac8-4309-af85-7495ff631b85" />
-ght="655" alt="Screenshot 2026-03-16 230009" src="https://github.com/user-attachments/assets/3d3a505e-68bf-48b6-af2b-271f31d8d8d9" />
+<img width="1300" height="734" alt="Screenshot 2026-03-16 230056" src="https://github.com/user-attachments/assets/d935b5d7-d586-427c-8448-bad9f0591fc9" />
+
+## 🛠 Tools & Technologies Used
+
+* Python
+* Pandas – Data cleaning and manipulation
+* Matplotlib – Data visualization
+* Seaborn – Advanced visualizations
+* Jupyter Notebook – Analysis environment
+
